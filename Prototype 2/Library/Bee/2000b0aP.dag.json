@@ -153,8 +153,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
-      "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "/Users/haydencarr/Unity Course",
+      "PayloadLength": 45,
+      "PayloadDebugContentSnippet": "/Users/haydencarr/Downloads/Un",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -165,7 +165,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 251,
+      "PayloadOffset": 245,
       "PayloadLength": 41585,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -178,9 +178,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 41930,
-      "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Un",
+      "PayloadOffset": 41924,
+      "PayloadLength": 58,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.rsp2"
@@ -1585,7 +1585,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 42097,
+      "PayloadOffset": 42085,
       "PayloadLength": 5463,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -1744,9 +1744,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 47665,
-      "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "/Users/haydencarr/Unity Course",
+      "PayloadOffset": 47653,
+      "PayloadLength": 45,
+      "PayloadDebugContentSnippet": "/Users/haydencarr/Downloads/Un",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -1757,7 +1757,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 47801,
+      "PayloadOffset": 47783,
       "PayloadLength": 35153,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -1770,9 +1770,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 83040,
-      "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Un",
+      "PayloadOffset": 83022,
+      "PayloadLength": 58,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.rsp2"
@@ -2107,7 +2107,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 83199,
+      "PayloadOffset": 83175,
       "PayloadLength": 5556,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -2268,9 +2268,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 88863,
-      "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "/Users/haydencarr/Unity Course",
+      "PayloadOffset": 88839,
+      "PayloadLength": 45,
+      "PayloadDebugContentSnippet": "/Users/haydencarr/Downloads/Un",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -2281,7 +2281,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 89002,
+      "PayloadOffset": 88972,
       "PayloadLength": 33207,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2294,9 +2294,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 122298,
-      "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Un",
+      "PayloadOffset": 122268,
+      "PayloadLength": 58,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.rsp2"
@@ -2610,7 +2610,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 122460,
+      "PayloadOffset": 122424,
       "PayloadLength": 5631,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -2773,9 +2773,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 128196,
-      "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "/Users/haydencarr/Unity Course",
+      "PayloadOffset": 128160,
+      "PayloadLength": 45,
+      "PayloadDebugContentSnippet": "/Users/haydencarr/Downloads/Un",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -2786,7 +2786,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 128332,
+      "PayloadOffset": 128290,
       "PayloadLength": 34276,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2799,9 +2799,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 162694,
-      "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Un",
+      "PayloadOffset": 162652,
+      "PayloadLength": 58,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.rsp2"
@@ -3111,7 +3111,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 162853,
+      "PayloadOffset": 162805,
       "PayloadLength": 5631,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -3274,9 +3274,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 168601,
-      "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "/Users/haydencarr/Unity Course",
+      "PayloadOffset": 168553,
+      "PayloadLength": 45,
+      "PayloadDebugContentSnippet": "/Users/haydencarr/Downloads/Un",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -3287,7 +3287,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 168749,
+      "PayloadOffset": 168695,
       "PayloadLength": 81641,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3300,9 +3300,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 250488,
-      "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Un",
+      "PayloadOffset": 250434,
+      "PayloadLength": 58,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.rsp2"
@@ -3967,7 +3967,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 250659,
+      "PayloadOffset": 250599,
       "PayloadLength": 5631,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -4130,9 +4130,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 256407,
-      "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "/Users/haydencarr/Unity Course",
+      "PayloadOffset": 256347,
+      "PayloadLength": 45,
+      "PayloadDebugContentSnippet": "/Users/haydencarr/Downloads/Un",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -4143,7 +4143,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 256555,
+      "PayloadOffset": 256489,
       "PayloadLength": 77074,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -4156,9 +4156,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 333727,
-      "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Un",
+      "PayloadOffset": 333661,
+      "PayloadLength": 58,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.rsp2"
@@ -4817,7 +4817,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 333898,
+      "PayloadOffset": 333826,
       "PayloadLength": 5718,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -4982,9 +4982,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 339734,
-      "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "/Users/haydencarr/Unity Course",
+      "PayloadOffset": 339662,
+      "PayloadLength": 45,
+      "PayloadDebugContentSnippet": "/Users/haydencarr/Downloads/Un",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -4995,7 +4995,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 339883,
+      "PayloadOffset": 339805,
       "PayloadLength": 31453,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -5008,9 +5008,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 371435,
-      "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Un",
+      "PayloadOffset": 371357,
+      "PayloadLength": 58,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/haydencarr/Do",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.rsp2"
@@ -5300,7 +5300,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 371607,
+      "PayloadOffset": 371523,
       "PayloadLength": 5805,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -5467,9 +5467,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 377518,
-      "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "/Users/haydencarr/Unity Course",
+      "PayloadOffset": 377434,
+      "PayloadLength": 45,
+      "PayloadDebugContentSnippet": "/Users/haydencarr/Downloads/Un",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -5480,8 +5480,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 377655,
-      "PayloadLength": 28652,
+      "PayloadOffset": 377565,
+      "PayloadLength": 28793,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -5493,7 +5493,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 406394,
+      "PayloadOffset": 406445,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -5705,7 +5705,11 @@
         "Assets/Challenge 2/Scripts/MoveForwardX.cs",
         "Assets/Challenge 2/Scripts/PlayerControllerX.cs",
         "Assets/Challenge 2/Scripts/SpawnManagerX.cs",
+        "Assets/Scripts/DestroyOutOfBounds.cs",
+        "Assets/Scripts/DetectCollisions.cs",
+        "Assets/Scripts/MoveForward.cs",
         "Assets/Scripts/PlayerController.cs",
+        "Assets/Scripts/SpawnManager.cs",
         "/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
         "Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.rsp"
@@ -5801,7 +5805,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/2000b0aP.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 406490,
+      "PayloadOffset": 406541,
       "PayloadLength": 6046,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -6213,7 +6217,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json (+1 other)",
       "DisplayName": "BuildPlayerDataGenerator RuntimeInitializeOnLoads",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/PlaybackEngines/WebGLSupport/Managed\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/PlayerScriptAssemblies\" -s=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/haydencarr/Unity Course Projects/Prototype 2/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/PlaybackEngines/WebGLSupport/Managed\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/PlayerScriptAssemblies\" -s=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/netcorerun/netcorerun",
         "/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -6365,7 +6369,7 @@
   ],
   "StatSignatures": [
     {
-      "File": "/Users/haydencarr/Unity Course Projects/Prototype 2/getconf"
+      "File": "/Users/haydencarr/Downloads/Unit2/Prototype 2/getconf"
     },
     {
       "File": "Assets/csc.rsp"
@@ -6436,6 +6440,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/2000b0aP.dag.json",
-  "PayloadsFile": "/Users/haydencarr/Unity Course Projects/Prototype 2/Library/Bee/2000b0aP.dag.payloads",
+  "PayloadsFile": "/Users/haydencarr/Downloads/Unit2/Prototype 2/Library/Bee/2000b0aP.dag.payloads",
   "RelativePathToRoot": "../.."
 }
